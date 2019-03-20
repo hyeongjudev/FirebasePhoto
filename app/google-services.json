@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "970789201718",
+    "firebase_url": "https://photo-a5196.firebaseio.com",
+    "project_id": "photo-a5196",
+    "storage_bucket": "photo-a5196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970789201718:android:73bd61d0148f0bbc",
+        "android_client_info": {
+          "package_name": "com.teddy.googlephoto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970789201718-32d1rro8ojb0et0h1179st4qrkd39and.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teddy.googlephoto",
+            "certificate_hash": "4f868097b6550ed334bdd871ee098a2d8c5e6fcf"
+          }
+        },
+        {
+          "client_id": "970789201718-nl1qqsnq4q70bj98uquvs4jqgbnj92pd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRLAz3x0ije3S9CtJPRxGUFGxcimxD2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970789201718-nl1qqsnq4q70bj98uquvs4jqgbnj92pd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
